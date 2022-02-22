@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the Warwick-shire meeting, November 25, 1679, at S. Mary-le-Bow in Cheapside, London by William Basset ...</title>
+            <author>Basset, William, 1644-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26753</idno>
+            <idno type="STC">Wing B1053</idno>
+            <idno type="STC">ESTC R13214</idno>
+            <idno type="EEBO-CITATION">13586160</idno>
+            <idno type="OCLC">ocm 13586160</idno>
+            <idno type="VID">100542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 783:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the Warwick-shire meeting, November 25, 1679, at S. Mary-le-Bow in Cheapside, London by William Basset ...</title>
+                  <author>Basset, William, 1644-1695.</author>
+               </titleStmt>
+               <extent>[8], 26, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Basset ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XII, 1 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100542:1" rendition="simple:additions"/>
+            <p>A SERMON AT THE Warwick-ſhire MEETING, <hi>November</hi> 25, 1679. AT S. <hi>Mary-le-Bow</hi> in <hi>Cheapſide, London.</hi>
+            </p>
+            <p>By <hi>William Baſſet,</hi> Rector of <hi>Brinklow,</hi> in <hi>Warwick<g ref="char:EOLhyphen"/>ſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Baſſet,</hi> at the <hi>George</hi> near S. <hi>Dun<g ref="char:EOLhyphen"/>ſtan</hi>'s Church in <hi>Fleet-ſtreet.</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100542:2" rendition="simple:additions"/>
+            <pb facs="tcp:100542:2"/>
+            <head>
+               <hi>TO THE</hi> Right Worſhipful Sir <hi>ROBERT VINER,</hi> Baronet, and Alderman of the City of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </head>
+            <p>CErtainly this Meeting juſtly claims a place among the conſiderable Benefits our Country doth enjoy, not only in regard of the correſpondence the ſeveral members of it, that are removed to this City, hold one with another; but eſpecially that by this means ſo many Plants are yearly removed from the barren parts of it to this richer Soil, where they are pruned and dreſſed, and having depth and fatneſs of earth grow into Trees, that yield Profit and Beauty to the whole.</p>
+            <p>Nor is the advantage ſmall to thoſe, whoſe Lot doth not fall in this pleaſant place: ſince the Coun<g ref="char:EOLhyphen"/>try is yearly eaſed of ſo many, who, by reaſon of ill Circumſtances, would be rather a Burden, than advantage to their Neighbours; eſpecially thoſe places that have more Hands than Work; where Men ſtand idle, perhaps, for no other reaſon, but becauſe <hi>none have hired them.</hi> And I have ſome<g ref="char:EOLhyphen"/>times known a Town at great expence, both of
+<pb facs="tcp:100542:3"/>time and Mony to keep out, it may be, ſome ſin<g ref="char:EOLhyphen"/>gle perſon from being an Inhabitant, becauſe they had more than they could employ before. And where the younger do increaſe, the more ancient, while yet ſerviceable, being left without employ, are neceſſarily ſupported by the Contributions of the place. And in <hi>Corporations,</hi> and <hi>Market-towns,</hi> where ſome might have crept into little Trades, this is already divided into ſo many hands, that (ſome few in a Town excepted) they have little elſe to do, but to open and ſhut the Windows of their Shops, and when they have ſhut, are ſcarce able to ſet and keep them open. Whence we may take ſome meaſures of the Benefit, the Country doth receive from this Company. For ſhould they lay down ſo good a Work, our poor, and therefore our payments would increaſe; more would die in<g ref="char:EOLhyphen"/>debted to the world, leave Charge behind them, and each way oppreſs the living: and the buſineſs of all private and publick Seſſions would yearly increaſe.</p>
+            <p>Therefore certainly all the Inhabitants of that place are bound in point of policy, and reaſon, if not of duty too (according to their ſeveral Capa<g ref="char:EOLhyphen"/>cities) to encourage and maintain ſo good a Work. Eſpecially the <hi>Gentry,</hi> whoſe Abilities, Divertiſe<g ref="char:EOLhyphen"/>ments, or other Concerns, calling them ſo oft to
+<pb facs="tcp:100542:3"/>Town, give them ſo fair an opportunity: eſpeci<g ref="char:EOLhyphen"/>ally conſidering theſe Benefits reach even the <hi>high places</hi> themſelves are yet in. For <hi>Landlords thrive beſt, where Tenants proſper.</hi> And <hi>Rents</hi> uſually fall, where the poor, and therefore payments, do in<g ref="char:EOLhyphen"/>creaſe. I muſt therefore impute it to the non-con<g ref="char:EOLhyphen"/>ſideration of theſe things, and perhaps, in ſome to the want of Generous and Publick Spirits, or at leaſt to the not kindling, thoſe Sparks of Virtue into a frame of Love, and Bounty, which (how<g ref="char:EOLhyphen"/>ever Titles go) are <hi>eſſential to a Gentleman,</hi> that we are in this Affair ſo far left by thoſe whoſe pre<g ref="char:EOLhyphen"/>ſence would be an Honour to the Company, a Glory to the place of their Nativity, and would give new life and vigour to the buſineſs of this Aſ<g ref="char:EOLhyphen"/>ſembly. <hi>Great Bodies move the leſſer.</hi> And good Leaders in that Contribution, which is not (as ſome ſuppoſe) for the Stewards Pockets, but towards the Binding Children out to Trades, by their very example gain more from others, than the Sums themſelves do give can amount to. And the more is thus collected, the more the Stewards are incouraged to a free and large addition; that for their own Fame, and the Childrens Good they may place them to the better Trades, which often proves as great a kindneſs, as the ſetting them out to any: for ſometimes ingenuity is forced to creep, when it might run high, if placed in a better Cir<g ref="char:EOLhyphen"/>cumſtance.
+<pb facs="tcp:100542:4"/>And ſince the want of publick Spi<g ref="char:EOLhyphen"/>rits prove a decay to a whole Society, to parti<g ref="char:EOLhyphen"/>cular Companies, and ſmaller Bodies; we are the more obliged, where we ſind them, to pay them due reſpects, and give a juſt applauſe. And ſince <hi>ſuch a ſpirit</hi> appears ſo eminently in your ſelf, not only from your publick Works and Monuments in the City, and our County Town of <hi>Warwick,</hi> in which your name ſhall live to future ages <hi>(He loves our nation, and hath built a ſynagogue)</hi> &amp;c. But alſo from the Incouragement you are pleaſed to give this charitable Work: in having formerly vouchſafed to be Steward of this Company; and in the Yearly Honour you do it by your preſence, not ſuffering any buſineſs, no, not the Burden, as well as Honour, you ſuſtain'd, when <hi>Lord Major</hi> of this City, to deliver you from it; I thought my ſelf in duty bound, by this Dedication, to let you know the Honour and Reſpects our Country ows you, as well as him, who is</p>
+            <closer>
+               <signed>Your Worſhips Humble Orator, And Servant, W. Baſſet.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100542:4"/>
+            <head>TO <hi>Mr.</hi>
+               <list>
+                  <item>Richard Chandler,</item>
+                  <item>Job Vere,</item>
+                  <item>Thomas Graſſingham,</item>
+                  <item>Henry Marſhal,</item>
+                  <item>John Skipwith,</item>
+                  <item>William Brown,</item>
+                  <item>George Shettleworth,</item>
+                  <item>Richard Elborow.</item>
+               </list> 
+               <hi>Stewards.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ell, your Charge and Trouble now is mostly over; but your Honour and Rewards, for having been Benefactors to your Coun<g ref="char:EOLhyphen"/>try, ſtill remain; and I hope, may out<g ref="char:EOLhyphen"/>live the Funerals of Time. For indeed you are able to give ſo good an <hi>Account of your Stewardſhip,</hi> that, as many as look upon this Meeting
+<pb facs="tcp:100542:5"/>of our Country-men, as an Enſample to all the other Counties of <hi>England,</hi> ſo you are a fair Copy for all the follow<g ref="char:EOLhyphen"/>ing Stewards of the ſame Company to write after. And ſuch have been your repeated kindneſſes to me, that I am bound to ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your Obliged Country-man, And Servant, W. Baſſet.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100542:5"/>
+            <head>A SERMON PREACHED AT THE Warwick-ſhire MEETING, <hi>November</hi> 25, 1679.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 12.1.</hi>
+                  </bibl>
+                  <p>I beſeech you, therefore, brethren, by the mercies of God, that ye preſent your bodies a living ſacrifice, holy, accepta<g ref="char:EOLhyphen"/>ble unto God, which is your reaſonable ſervice.</p>
+               </q>
+            </epigraph>
+            <p>IN the Foregoing Chapters the Apoſtle hath diſcourſed ſome things, which the largeneſs of our Subject will not ſuffer us to look into: and from which the Text is a con<g ref="char:EOLhyphen"/>cluſion, and for that reaſon is uſhered in with the Illative <hi>Therefore.</hi>]</p>
+            <p>
+               <hi>I beſeech you [therefore.]</hi>
+            </p>
+            <p>In the words themſelves we ſhall obſerve</p>
+            <p n="1">
+               <pb n="2" facs="tcp:100542:6"/> 1. A kind and familiar compellation, <hi>Brethren.</hi>
+            </p>
+            <p n="2">2. An earneſt Supplication: I <hi>beſeech you.</hi>
+            </p>
+            <p n="3">3. A farther inforcement of the matter in hand: <hi>By the mer<g ref="char:EOLhyphen"/>cies of God.</hi>
+            </p>
+            <p>
+               <hi>I beſeech you, brethren, by the mercies of God.</hi>
+            </p>
+            <p n="4">4. The ſubject matter of this Diſcourſe, <hi>That ye preſent your bodies a living ſacrifice, holy, acceptable to God.</hi> And</p>
+            <p n="5">5. The equity and meetneſs of the thing, <hi>Which is your rea<g ref="char:EOLhyphen"/>ſonable ſervice.</hi>
+            </p>
+            <p>
+               <hi>I beſeech you, therefore, brethren, by the mercies of God, that ye preſent your bodies a living ſacrifice, holy, acceptable to God, which is your reaſonable ſervice.</hi>
+            </p>
+            <p>I begin with the</p>
+            <p n="1">1. <hi>Brethren.</hi>
+            </p>
+            <p>We once all lay in that common matter, which <hi>Moſes</hi> calls the void and formleſs earth, and others expreſs by their <hi>materia pri<g ref="char:EOLhyphen"/>ma;</hi> ſome by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and others by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Which though without form, was yet ſuſceptive of any the great Creator ſhould pleaſe to impreſs upon it. Out of this Infinite Power and Wiſdom did produce all earthly Beings, and gave them a Law and Power of propogating their ſeveral kinds. Whence all Mankind were taken out of the ſame common matter, had all the ſame Maker; for which reaſon the Poet calls them,
+<q>Chara Dei Soboles—</q> 
+               <hi>The Off-ſping of God.</hi> And are all deſcended from the ſame common Parents, which are the firſt, and moſt general grounds of this Relation.</p>
+            <p>And when it pleaſed God by confuſion of Languages (there<g ref="char:EOLhyphen"/>by turning ſin into an univerſal Bleſſing) to neceſſitate men to di<g ref="char:EOLhyphen"/>vide themſelves into many little Bodies, according to their ſeve<g ref="char:EOLhyphen"/>ral Tongues, and ſo to diſperſe themſelves over the face of the whole earth, that there might be the more room, incourage<g ref="char:EOLhyphen"/>ments and neceſſity of Propagation; and that the ſeveral parts of the earth, by the induſtry of men, might communicate their good things one to another; whereupon mankind became diverſi<g ref="char:EOLhyphen"/>fied, as to Speech, Sentiments, Manners and Cuſtoms of Life,
+<pb n="3" facs="tcp:100542:6"/>according to the ſeveral Climes they did inhabit, and other cir<g ref="char:EOLhyphen"/>cumſtances they were placed in; yet they of the ſame Body were knit together by a nearer Relation, than thoſe of different Societies.</p>
+            <p>And, as one ſpeaks,
+<q>Jam cuncti gens una ſumus—</q>
+            </p>
+            <p>Noting that a new and nearer Relation doth ariſe upon the u<g ref="char:EOLhyphen"/>nion of two different Nations, and therefore the ſeveral particu<g ref="char:EOLhyphen"/>lars of the ſame Nation are more nearly related, than thoſe of different Societies be.</p>
+            <p>And when the ſame Country upon certain occaſions, and for divers reaſons, hath fallen under ſeveral diviſions, as <hi>Pariſhes, Tythingries, Hundreds</hi> and <hi>Shires,</hi> they of the ſame part are more nearly related, than thoſe of different Diviſions. Nor doth a new, or nearer relation ariſe ſolely from the place of our Birth, but of our education, from our ſeveral Callings, Trades and o<g ref="char:EOLhyphen"/>ther Circumſtances.</p>
+            <p>And if we look upon men as linked together in a Sacred Socie<g ref="char:EOLhyphen"/>ty, we have all <hi>one faith, one baptiſm, one hope, one God and Father of all:</hi> whence we are ſaid to be <hi>Heirs of God,</hi> and <hi>Co-heirs with Chriſt.</hi> And thus conſidered, we are all under the ſame Head, make up one and the ſame Body, which is the Church; and are Members one of another. This is the beſt, and moſt Honourable of all Relations; which the ancient Chriſtians were ready upon all oc<g ref="char:EOLhyphen"/>caſions to expreſs by the term of <hi>Brother</hi> and <hi>Siſter.</hi> However of late it is fallen under reproach, and is ſeldom uſed, unleſs in Drollery, by reaſon it hath been ſo horribly abuſed by unreaſon<g ref="char:EOLhyphen"/>able pretenders to Purity, and is made as a Characteriſtical dif<g ref="char:EOLhyphen"/>ference, whereby to diſtinguiſh different Parties and Factions.</p>
+            <p>So various and manifold are the Grounds and Reaſons of this Relation, that there are no men, but what upon ſome accounts or other are Brethren. And by how many the more ways we are ſo related, by ſo many the more indearments we have one to a<g ref="char:EOLhyphen"/>nother, and obligations to mutual love and kindneſs.</p>
+            <p>This term hath been ſometimes uſed, not only to a good end, but with good ſucceſs too. For when the <hi>Romans</hi> were in Mu<g ref="char:EOLhyphen"/>tiny,
+<pb n="4" facs="tcp:100542:7"/>and ready to tumult, they were all appeaſed and huſhed into ſilence, by this one word <hi>Quirites,</hi> by which they were re<g ref="char:EOLhyphen"/>minded they were all of the ſame Country, and had the ſame Captain, and Founder.</p>
+            <p>To the like purpoſe, though not with like ſucceſs, did <hi>Moſes</hi> wage it, when he ſaw two Jews, Men of the ſame Nation, and ſame Religion contending together, <hi>Act.</hi> 7.26. <hi>Sirs, ye are bre<g ref="char:EOLhyphen"/>thren, why do ye wrong one to another?</hi>
+            </p>
+            <p>Sometimes it is uſed to uſher in a reproof, which otherwiſe might be apt to move ſome unruly paſſions, <hi>Jam.</hi> 1.16. <hi>Do not err, my beloved brethren.</hi>
+            </p>
+            <p>And otherwhiles to ſweeten and ſmooth men into a more eaſie and ready reception of ſome important duty; which is the deſign and buſineſs of it in the Text,</p>
+            <p>
+               <hi>I beſeech you, brethren,— that ye preſent your bodies,</hi> &amp;c.</p>
+            <p>Whence we come to the ſecond part of the Text,</p>
+            <p>
+               <hi>I beſeech you.</hi>
+            </p>
+            <p>S. <hi>Paul</hi> was one of the greateſt of the Apoſtles, in regard of his extraordinary, and immediate Call from Heaven, his Suf<g ref="char:EOLhyphen"/>ferings, his Labours, his Revelations, and his Learning, having been brought up at the Feet of <hi>Gamaliel,</hi> and skilled in all the Learning of the <hi>Jews.</hi> Yet writing to the <hi>Romans,</hi> who were but newly converted from Heatheniſm; and amongſt whom there were many weak Chriſtians, who were ſtill intangled in the Rudiments of the World, and were ſubject to Ordinances: being ſo far from uſing their liberty, as a Cloak and Plea for Sin, as the manner of ſome is, that they ſuffered much for not under<g ref="char:EOLhyphen"/>ſtanding it, yet appears as their humble Supplicant,</p>
+            <p>
+               <hi>I beſeech you.</hi>
+            </p>
+            <p>Which great condeſcenſion himſelf takes notice of to the <hi>Co<g ref="char:EOLhyphen"/>rinthians,</hi> 2. <hi>Ep.</hi> 10.11. <hi>I Paul my ſelf beſeech you.</hi> Which form of ſpeech is never uſed, unleſs in theſe, and ſuch like Ca<g ref="char:EOLhyphen"/>ſes.</p>
+            <p n="1">1. To expreſs the vehemency of the ſpeaker, and to ſhew the whole Soul is taken up, and filled with an earneſt deſire of ſuc<g ref="char:EOLhyphen"/>ceeding in the affair before him. No Rhetorick ſo winning as ſuch a paſſionate and courtly inſinuation, which ſeems enough to melt down the affections, and form them to the mold, and me<g ref="char:EOLhyphen"/>thods of ſuch an Orator.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:100542:7"/> 2. When the truth propoſed, or duty preſſed upon us, is of grand importance and concern, as <hi>Epheſ</hi> 4.1. <hi>I beſeech you, that ye walk worthy of the vocation wherewith ye are called.</hi> The matter of which exhortation compriſes all the Duties of Chriſtian Religion; and therefore juſtly calls for ſo earneſt an importunity. For, as it is matter of prudence, as well as duty, to proportion our love, deſire, and hope, according to the meaſures of good, that are in the things to which they are terminated; ſo it is all the reaſon in the world, that the Orator and Divine ſhould ſuit his pains to the nature of the Subject: which is but like the giving a price according to the uſefulneſs and worth of the thing pur<g ref="char:EOLhyphen"/>chaſed. And indeed Nature and Revelation ſomewhat neceſſi<g ref="char:EOLhyphen"/>tate to do ſo. For the leſs things concern us, the leſs capable they are of truth: as may be inſtanced in the plurality of worlds, the motion of the earth, the reaſon of the ebbing and flowing of the Sea, and the riſe of the River <hi>Nilus:</hi> and the remoter things are from the life, and eſſence of Religion, ſtill the more contro<g ref="char:EOLhyphen"/>verſial, as appears from the manner of the traduction of Original Sin, the perpetual Virginity of the bleſſed <hi>Mary,</hi> &amp;c. In which kind of points a man cannot be mighty earneſt in preſſing your belief, becauſe the nature of the Subject will bear but little, if a<g ref="char:EOLhyphen"/>ny certainty or weight, But where things are of ſome great im<g ref="char:EOLhyphen"/>portance, there nature is more plain and ſatisfactory, and ſo is Revelation too: for whatever is abſolutely neceſſary to Salvation, whether it be matter of faith or practiſe, is ſuited to the mode of all capacities. Theſe ſo eaſily appear plain and reaſonable, and the inducements to them ſo ſtrong and weighty, that they both afford good ground for importunity; and likewiſe ſo warm the affections, and move the Speaker, that he is uſually cloſe and preſſing. Therefore when the Apoſtle is putting us upon this great and reaſonable part of our Religion, <hi>viz.</hi> the preſenting our Bodies a Sacrifice to God, he both commands and courts us to it:</p>
+            <p>
+               <hi>I beſeech you, that ye preſent your bodies,</hi> &amp;c.</p>
+            <p n="3">3. It may be further uſed, where men are not eaſily brought to comply with the matter propoſed.</p>
+            <p>There are ſome things indeed ſo readily received, and ſo tena<g ref="char:EOLhyphen"/>ciouſly held by many men, that ſcarce any thing is able to check
+<pb n="6" facs="tcp:100542:8"/>their belief, or reſtrain from the practice of them, and ſuch be the darling conceits of the lawfulneſs of reſiſting the lawful Ma<g ref="char:EOLhyphen"/>giſtrate, and of ſeeking our own preſervation in forbidden, and therefore in unlawful ways: which muſt be accounted to proceed from their agreeableneſs to vile affections, and the debaucheries of nature. Whereas the cleareſt truths and indiſpenſable duties, though indeed the more they are ſo, the more agreeable they be to natural light, and the reaſons of men, as the reſiſting and mor<g ref="char:EOLhyphen"/>tifying our own corruptions, yet ſtill they are not ſo eaſily re<g ref="char:EOLhyphen"/>ceived, and reduced to practice. But we have more need of un<g ref="char:EOLhyphen"/>deniable arguments, and an importunate zeal to convince and perſwade their reception, than others have to put off their falſe and counterfeit Wares. The reaſon of which is, theſe ſuit with evil inclinations, and therefore are eaſily received: while they are againſt, and for that reaſon oppoſed by natural corruptions; in the one, that enemy of all good helps forward, in the other, he en<g ref="char:EOLhyphen"/>deavours to hinder us either in the whole, or in part; or elſe in the motive or end of our faith, or action. Therefore the Apo<g ref="char:EOLhyphen"/>ſtle might the more earneſtly preſs us to the preſenting our Bodies, that by ſuch means he might overcome all oppoſitions, and there<g ref="char:EOLhyphen"/>upon perſwade men to captivate their thoughts to the belief, and ſubmit themſelves to the practice of ſo great a Duty.</p>
+            <p>
+               <hi>I beſeech you, brethren.</hi>
+            </p>
+            <p>And leſt this ſhould be too little, he adds,</p>
+            <p n="4">4. A further inforcement of the ſame thing:</p>
+            <p>
+               <hi>By the mercies of God.</hi>
+            </p>
+            <p>
+               <hi>I beſeech you, brethren, by the mercies of God.</hi>
+            </p>
+            <p>By which he means all thoſe things, that the Ancients com<g ref="char:EOLhyphen"/>priſed under thoſe three Heads:
+<list>
+                  <item>1. The Goods of Fortune, as our Eſtates and Enjoyments in the world, which make our lives a bleſſing, and without which to live, would be at preſent to be miſerable.</item>
+                  <item>2. The Goods of the Body, as Health, Strength, Perfection, and due proportion of Parts.</item>
+                  <item>3. The Goods of the Mind, as the uſe of all our Faculties, whereby we are able to reaſon, diſcourſe and diſtinguiſh between good and evil, and make proviſion againſt preſent and future Exigencies. All which are ſo valuable, we know not what price
+<pb n="7" facs="tcp:100542:8"/>to ſet upon them; and the want of any one of them would ne<g ref="char:EOLhyphen"/>ceſſarily infer the preſence of ſome great evil.</item>
+               </list>
+            </p>
+            <p>Nay, theſe Mercies include all thoſe good and perfect gifts, which come down from the Father of Lights; the Redemption of the World, and that by a price of infinite value, as the giving his Son, and that to all the ſinleſs infirmities of humane nature, which ſpeaks the purchaſe, the juſt admiration of Men and An<g ref="char:EOLhyphen"/>gels: that Omnipotency it ſelf ſhould condeſcend to be carried in the Arms of a feeble Woman! That he, who ſate on the Throne of Heaven, ſhould vouchſafe to lie in a dirty Manger! That he, whom the Heaven of Heavens cannot contain, ſhould be wrapt up in Swadling Cloaths! That he, who gave life and being to all things, ſhould lay down his life for the worſt of Sinners! That Love it ſelf ſhould ſit on a Thorny Bough, dying even for thoſe that killed it! and to perfect the wonder, that this muſt be a death the moſt painful and ignominious in the world! That he ſhould ever live, as the Scripture ſpeaks, to make interceſſion for us, as if it was the ſole end of his life to plead <hi>our</hi> Cauſe in Hea<g ref="char:EOLhyphen"/>ven!</p>
+            <p>And when after all we have lived unſuitable to his Mercies, that he ſhould yet continue the means of Grace, and Tenders of Sal<g ref="char:EOLhyphen"/>vation, and purſue us with all the glorious propoſals of Bliſs and Happineſs! That he ſhould ſtrive with us by natural conſcience, the motions and whiſpers of the bleſſed Spirit, as if he reſolved to take no denyal, but would even force himſelf, and eternal Glories on us: theſe are Mercies of the greateſt magnitude, the moſt winning endearments that love and kindneſs can lay upon us! Obligations that ſhould make us plyable to all the ſignifications of the Divine Will, and to turn our hands and hearts to every duty; eſpecially conſidering the great deſign of them is, both to oblige, and alſo to inable us to a pious, and an holy life, for which cauſe the Apoſtle argues from them to the duty before us.</p>
+            <p>
+               <hi>I beſeech you by the mercies of God, that ye preſent your bodies,</hi> &amp;c. which is the fourth part of the Text, <hi>viz.</hi> the ſubject of the Diſcourſe.</p>
+            <p>
+               <hi>That ye preſent your bodies a living ſacrifice, holy, acceptable to God.</hi>
+            </p>
+            <p>This is an alluſion to the Law of Sacrifices under the <hi>Moſaick</hi>
+               <pb n="8" facs="tcp:100542:9"/>Diſpenſation, of which we ſhall obſerve ſome few things, that we may the better underſtand this Phraſe, and the Duties it re<g ref="char:EOLhyphen"/>quires of us, as</p>
+            <p n="1">1. The perfection of thoſe things that were to be offered to God, they muſt be the beſt of their kind: <hi>Levit.</hi> 22.19, 20, 21. <hi>Ye ſhall offer a male [without blemiſh] of the beeves, and of the ſheep, and of the goats. But whatſoever hath a blemiſh, that ſhall ye not offer, for it ſhall not be acceptable for you.</hi> And <hi>Mal.</hi> 1.14. God lays a curſe upon him, that ſhall preſume to offer him a <hi>cor<g ref="char:EOLhyphen"/>rupt thing.</hi>
+            </p>
+            <p>Now as theſe Sacrifices were typical of ſomething that was to be under the Goſpel, <hi>viz.</hi> that immaculate Sacrifice of the bleſ<g ref="char:EOLhyphen"/>ſed Jeſus, which he was once to make for our Sins, whence he is called the Lamb of God, ſlain from the foundation of the World. So the perfection of them taught the purity, which God requi<g ref="char:EOLhyphen"/>red of them that ſhould offer themſelves unto him under each Di<g ref="char:EOLhyphen"/>ſpenſation. That God, who would not allow of imperfections in the things offered, would by no means ſuffer the blemiſhes of Sin in the perſons offering. For this is a greater provocation than the other, for that teaches the neceſſity of this: therefore as ſuch Sacrifices were rejected, ſo were ſuch Sacrificers too. And ſome<g ref="char:EOLhyphen"/>times the ſpotleſs Offering was abhorred for the ſpots of him that offered it: <hi>Iſai.</hi> 1.11. to verſ. 16. <hi>To what purpoſe is the multitude of your ſacrifices to me? ſaith the Lord. I am full of the burnt-offerings of rams, and the fat of fed beaſts, I delight not in the blood of bullocks, or of lambs, or of he-goats. Bring no more vain oblations, incenſe is an abomination,</hi> &amp;c. The reaſon of which is <hi>verſ.</hi> 15. <hi>Your hands are full of blood.</hi>
+            </p>
+            <p>Now by this alluſion the Apoſtle ſhews that the Sacrifices under the Goſpel muſt be pure, which he expreſſes by that word <hi>holy;</hi> and becauſe our Sacrifices now muſt be our perſons, and not our beaſts, he adds a <hi>living ſacrifice,</hi> in oppoſition to the dead ones under the Law; therefore it is plain, that he that comes unto God, muſt come with a Conſcience purged from dead works, and refi<g ref="char:EOLhyphen"/>ned, as far as is poſſible, from all the droſs and imperfections of corrupted nature. The neceſſity of which we are ſometimes taught by more proper expreſſions, 2 <hi>Cor</hi> 7.1. <hi>Let us cleanſe our ſelves from all filthineſs of fleſh and ſpirit; perfecting Holineſs.</hi>
+            </p>
+            <pb n="9" facs="tcp:100542:9"/>
+            <p> Thus we muſt imitate that firſt good, and reach after ſome participations of the Divine Nature; becoming <hi>holy as the Lord our God is holy:</hi> and <hi>perfect even as our Father which is in Heaven is perfect.</hi> That ſo there may be ſome congruity and ſuitableneſs between God and thoſe that worſhip him; and indeed this is the great condition of finding acceptance: for as God would not accept of a blemiſhed Sacrifice, ſo the Text expreſly declares, that we muſt preſent our ſelves a Sacrifice <hi>holy,</hi> if ever we mean to be <hi>acceptable</hi> to him.</p>
+            <p>
+               <hi>That ye preſent your bodies a living ſacrifice, holy, accepta<g ref="char:EOLhyphen"/>ble to God.</hi>
+            </p>
+            <p n="2">2. Theſe Sacrifices were made, and offered to God, which was part of the Divine Worſhip. And this <hi>viz. Wor<g ref="char:EOLhyphen"/>ſhip</hi> is a ſtanding and perpetual Duty.</p>
+            <p>Though the <hi>Modus</hi> be changed, yet the thing ſtill re<g ref="char:EOLhyphen"/>mains.</p>
+            <p>Therefore in that very place where our Saviour rejects the Temple, and the Service peculiar to it, he yet retains Worſhip ſtill, and thereby makes it a Goſpel-duty; <hi>Joh.</hi> 4.23. The true <hi>Worſhipers</hi> ſhall <hi>worſhip.</hi> And the Father ſeeks ſuch to <hi>worſhip</hi> him. So S. <hi>Paul,</hi> Tit. 2.12. compriſes all Religion under theſe three Heads, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>Sobriety,</hi> which includes the Duties we owe to our ſelves, and forbids all intemperance and exceſs.</p>
+            <p n="2">2. <hi>Righteouſneſs,</hi> which contains all the Offices we owe to others, and is a doing to all men, as we would all men ſhould do to us. And</p>
+            <p n="3">3. <hi>Godlineſs,</hi> which compriſes the ſeveral Duties we owe immediately to God, whereof <hi>Adoration</hi> or <hi>Worſhip</hi> is one, in the judgment of the Gentile World, who ever paid theſe Tributes of Honour to the Deity.</p>
+            <p>Therefore when <hi>Epicurus,</hi> by denying Divine Providence, took the ready courſe to rob God of his Worſhip, he was char<g ref="char:EOLhyphen"/>ged by others, and the better of the Philoſophers, <hi>tollere Deos,</hi>
+               <pb n="10" facs="tcp:100542:10"/>in effect to deny his very exiſtence, and run the world into right down Atheiſm.</p>
+            <p>And that Command that prohibits the worſhip of Gra<g ref="char:EOLhyphen"/>ven Images, doth yet retain this worſhip as proper, and pe<g ref="char:EOLhyphen"/>culiar to the true God. For as God is the moſt excellent of all beings, ſo he will have ſomething reſerved for himſelf, which no creature ſhall ſhare with him in, and this is eſpe<g ref="char:EOLhyphen"/>cially Worſhip which is forbid to the creature, for this very reaſon, that it is due to God only, and that both by virtue of Precept and Eminency.</p>
+            <p>Which thing is here expreſſed by <hi>preſenting,</hi> that ye <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> your bodies, <hi>viz.</hi> in a way of Adoration and Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>That Religion then muſt needs be lame and imperfect, which reſts in ſome moral Virtues, but is deficient in this great point, that is willing to appear blameleſs to the world, but matters not by Divine Worſhip to give Praiſe and Glory to the Deity. For as it was not ſufficient to the Jews to pre<g ref="char:EOLhyphen"/>pare their Sacrifices, but not to offer them: ſo neither is it ſufficient for us to make our bodies a living Sacrifice, and ne<g ref="char:EOLhyphen"/>ver preſent them, as ſuch, before God.</p>
+            <p>The Metaphor muſt hold in theſe two points, elſe it would have been improperly uſed, and would reach but one part of that which other Texts in the New Teſtament make our du<g ref="char:EOLhyphen"/>ty: and the word <hi>[Preſent]</hi> muſt be of no uſe and ſignifi<g ref="char:EOLhyphen"/>cation. Nay, a thing is not properly and ſtrictly a Sacrifice till it be offered, or at leaſt in offering: before, when it is prepared, it is but <hi>for</hi> a Sacrifice, it is the offering that makes it ſuch.</p>
+            <p>Therefore by <hi>preſenting our bodies a ſacrifice,</hi> we are moſt certainly and clearly put upon the offering them to God in a way of worſhip: for ſo Sacrifices were.</p>
+            <p>And indeed one great end of Religion is to give Praiſe and Glory to God, which is done very much, and, perhaps, in
+<pb n="11" facs="tcp:100542:10"/>nothing better than by worſhip; for in theſe very acts we own him the greateſt, and beſt of all Beings; and our ſelves but poor and dependent creatures.</p>
+            <p>God is never more magnified by men, than when they fall down and worſhip him. Therefore as the worſhiping the Creature is ſaid to be a <hi>giving God's glory to another, and his praiſe to graven Images;</hi> Iſa. 42.8. So the not worſhiping muſt needs be a with-holding from, or a denying him the ſame Praiſe and Glory. Therefore of what civil behaviour, what ſober converſation, or how juſt ſoever men may be in their Societies and Commerce, yet if they do not preſent their bodies a living Sacrifice to God, they are no Worſhipers, and therefore wanting in one of the beſt parts, and main ends of all Religion.</p>
+            <p n="3">3. Sacrifices were not only offered, but in a <hi>publick</hi> place and manner: <hi>Deut.</hi> 16.5, 6. <hi>Thou mayſt not ſacrifice the Paſsover within any of thy gates, which the Lord thy God giveth thee. But at the place which the Lord thy God ſhall chuſe to place his name in.</hi> Levit. 13.3, 4. <hi>Whatſoever man,</hi> &amp;c. <hi>that kills an ox, or lamb, or goat,</hi> &amp;c. <hi>and brings it not to the door of the Ta<g ref="char:EOLhyphen"/>bernacle of the congregation, to offer an offering to the Lord, before the tabernacle of the Lord, blood ſhall be imputed to that man.</hi> And Deut. 12.17, 18. <hi>The tithe of corn, wine, oil, the firſtlings of the herd, and of the flock, vows, free-will-offerings, and heave-offerings, were to be eaten before the Lord, in the place which the Lord ſhould chuſe.</hi>
+            </p>
+            <p>And though private Worſhip was required of the Jew, as well as of the Chriſtian; yet the Old Teſtament, eſpecially the Pſalms, do ſo far prefer the publick before private wor<g ref="char:EOLhyphen"/>ſhip, that a man would be almoſt apt to think all worſhip confined to this. For though <hi>David,</hi> when driven to and fro by <hi>Saul,</hi> and whilſt among the Philiſtines, had opportu<g ref="char:EOLhyphen"/>nity of private Adoration, and ſecret Devotions, yet ſpeaks
+<pb n="12" facs="tcp:100542:11"/>of himſelf, as driven from the preſence of God, when dri<g ref="char:EOLhyphen"/>ven from his Houſe and publick Worſhip: <hi>Pſal.</hi> 84.1, 2. <hi>How amiable are thy tabernacles, O Lord of Hoſts! My ſoul longs, yea even faints for the courts of the Lord: my heart and my fleſh cry out for the living God.</hi> Verſe 3 he ſpeaks the Swallow more happy than himſelf, in that, while he is ab<g ref="char:EOLhyphen"/>ſent, ſhe is ſuffered to viſit, and <hi>build her neſt about the altars.</hi> Pſal. 42.1, 2. <hi>As the hart panteth after the water-brooks, ſo pants my ſoul after thee, O God: When ſhall I come and appear before God!</hi> Now the Pſalmiſt very well knew, he was al<g ref="char:EOLhyphen"/>ways in the Divine Preſence; and therefore <hi>Pſal.</hi> 139.8. to <hi>Verſe</hi> 13. proves by an induction of particulars, that there is no place of concealment from him; not in Heaven, nor in Hell; not in the utmoſt parts of the Sea, nor in the darkeſt night; therefore <hi>verſe</hi> 7. <hi>Whither ſhall I flee from thy pre<g ref="char:EOLhyphen"/>ſence?</hi>
+            </p>
+            <p>Which being propoſed by way of queſtion, implies the ſtronger Negation.</p>
+            <p>Therefore if we will make ſenſe of thoſe places, we muſt underſtand the Pſal. as reaching after a more than ordinary preſence, which is the preſence of God in places of publick worſhip, which all ſincere worſhipers do enjoy. By which kind of ſpeeches he ſeems ſo to value the preſence of God in his publick worſhip, that he looks upon all things, without this to be worth nothing. And certainly where there is a ſpiritual life wrought in us, it will diſcover it ſelf by reaching after the utmoſt participations of divine things.</p>
+            <p>And the Goſpel however a furtherer of private devotions, yet doth in an eſpecial manner command and incourage a publick Service; as by the example of the Apoſtles, which as a tacite precept requires the like of us. To which end we find ſometimes the place of their aſſembling recorded, <hi>Act.</hi> 1.13, 14. <hi>In an upper room they continued with one ac<g ref="char:EOLhyphen"/>cord in prayer and ſupplication.</hi> And otherwiles the time is
+<pb n="13" facs="tcp:100542:11"/>mentioned, <hi>Joh.</hi> 20.26. <hi>After eight days the diſciples again were within</hi> — which number includes two Sundays, according to a computation then in uſe, which was to take in the day from which they began their account, thereby putting two Sundays into one week. And when Chriſtians began to grow cool, and negligent in the publick preſenting their Bodies, the Author to the <hi>Heb.</hi> 10.25. both reproves this growing evil, and charges others to avoid it, <hi>not forſaking the aſſembling your ſelves together; as the manner of ſome is.</hi> And no wonder the Scripture is ſo round in this matter, ſince the neglect of publick, moſt certainly draws after it the neglect of all private duties; therefore thoſe that excuſe their not frequenting publick Ordinances by a pretence of ſerving God at home, are like thoſe that will have every day a Sabbath, till at laſt they keep none at all.</p>
+            <p>And good reaſon private devotions ſhould give way to publick ſervices, becauſe theſe are the moſt ordinary, and beaten road to Heaven, and a more uſual conveyance of Grace, than other Performances. For <hi>Faith</hi> is ſaid to come by <hi>hearing,</hi> and this hearing ſuch as is from Preaching. <hi>How ſhall they hear without a Preacher,</hi> Rom. Chriſt appeared to the firſt Chriſtians, when aſſembled together; <hi>Joh.</hi> 20.26. The Holy Ghoſt deſcended upon them, when <hi>met together with one accord in one place;</hi> Act. 2. And our Saviour promiſes, <hi>Matth.</hi> 18.20. that when <hi>two or three are met together in his name, he will be in the midſt of them.</hi> Which muſt be un<g ref="char:EOLhyphen"/>derſtood in a more peculiar and eſpecial manner, than by his eſſential preſence, in regard of which he is at all times preſent with all his Creatures.</p>
+            <p>And no wonder this hath the greater bleſſing, ſince we do in this more than any other way, make a viſible profeſſion, and thereby give more praiſe and glory to God than in pri<g ref="char:EOLhyphen"/>vate, and unſeen ſervices.</p>
+            <pb n="14" facs="tcp:100542:12"/>
+            <p> Therefore as God hath ſo entwiſted his Honour, and our happineſs together, that it is impoſſible to ſeparate them, for the ſame Acts do both: ſo thoſe acts that moſt advance his Glory, uſually tend moſt to the advantage of him that doth them.</p>
+            <p>Whence the Apoſtle ſeeing theſe two ends beſt attainable by a publick worſhip, doth preſs us to <hi>preſent our bodies a living ſacrifice,</hi> and therefore to preſent them in that way that Sacrifices were offered, which was in the moſt ſolemn, and publick manner.</p>
+            <p n="4">4. The Text fixes this Worſhip on the Body, <hi>That ye pre<g ref="char:EOLhyphen"/>ſent your Bodies.</hi> Which by a <hi>Synechdoche partis pro toto,</hi> is put for the whole man: That ye preſent your ſelves.</p>
+            <p>Where obſerve</p>
+            <p>
+               <hi>That the Body is engaged in this work.</hi>
+            </p>
+            <p>Though indeed there is no Text that doth expreſly ex<g ref="char:EOLhyphen"/>clude it, yet becauſe there is one that doth not <hi>in terminis</hi> include the Body, as <hi>John</hi> 4.23 <hi>The true worſhipers ſhall wor<g ref="char:EOLhyphen"/>ſhip in ſpirit, and in truth,</hi>
+            </p>
+            <p>Therefore ſome will have the Soul alone concerned, and not the Body at all in Divine Worſhip.</p>
+            <p>But as <hi>out of the fulneſs of the heart the mouth ſpeaks:</hi> ſo bo<g ref="char:EOLhyphen"/>dily worſhip is in, and flows from that of the ſpirit: nothing being more natural than outwardly to expreſs our inward ſen<g ref="char:EOLhyphen"/>timents; and eſpecially the awfulneſs we have of the Deity. In moſt ordinary caſes it is judged Hypocriſie to do other<g ref="char:EOLhyphen"/>wiſe, and in this it cannot be without ſome violence offer<g ref="char:EOLhyphen"/>ed to our ſelves: for it is certainly contrary to the reaſons and experience of all obſerving men, that when we come to the place and Offices of a publick Worſhip, men ſhould have any due and ſuitable thoughts of the preſence they come
+<pb n="15" facs="tcp:100542:12"/>before, and not expreſs the ſame in outward geſtures and behaviour. I am ſure none will believe that man hath any internal or mental reverence for his Superiours, who, when in their preſence, doth not outwardly expreſs the ſame. For we meaſure the thoughts by the actions, and gueſs at the Soul by the Body.</p>
+            <p>Much more muſt we think thus in the caſe before us; for God being the greateſt, and moſt excellent of all beings, if we have worthy thoughts of him, the mind is ſo ſtruck, and the ſoul receives ſuch deep impreſſions, that we much more neceſſarily in outward geſtures diſcover the awful and reve<g ref="char:EOLhyphen"/>rend thoughts, we have of the Deity, than we do our re<g ref="char:EOLhyphen"/>ſpects to Superiors, who, being but fellow-creatures, differ from us, not in infinite, as God doth, but in ſome few and little diſtances: and doubtleſs our Saviour requiring a ſpiri<g ref="char:EOLhyphen"/>tual worſhip, doth as much intend that of the Body too, as thoſe Scriptures mean ſo many <hi>perſons</hi> that ſpeak only of ſo many <hi>ſouls,</hi> Gen. 12.5. <hi>And Abraham took Sarai his wife,</hi> &amp;c. <hi>and all the Souls they had gotten,</hi> &amp;c.</p>
+            <p>And it ſeems very obſervable, that when men once ex<g ref="char:EOLhyphen"/>clude the reverence of the Body, they quickly loſe that of the Soul too: as appears from ſuch mens expreſſions, who make their prayers familiar diſcourſes with God Almighty, which muſt proceed from want of due thoughts of God, whereupon they make themſelves too much like him; or him too much like themſelves.</p>
+            <p>Neither is it any wonder that our Saviour expreſly re<g ref="char:EOLhyphen"/>quires a ſpiritual worſhip, rather than a bodily. Becauſe</p>
+            <p n="1">1. This is the greater, and carries the other along with it: whereas that is the leſs, and may be, becauſe it ſometimes is without this.</p>
+            <p n="2">
+               <pb n="16" facs="tcp:100542:13"/> 2. Chriſt was here nulling the <hi>Moſaick</hi> Diſpenſation, which was called a <hi>Carnal Command</hi> Heb. 7.16. the reaſon of which we find <hi>Ch.</hi> 9, 10. becauſe <hi>it ſtood in meats and drinks and divers waſhings, and carnal ordinances impoſed upon them.</hi>
+            </p>
+            <p>Therefore being now to bring in a worſhip which reſted not ſo much in bodily Exerciſes, it was moſt proper and ſub<g ref="char:EOLhyphen"/>ſervient to this preſent deſign, to call it a ſpiritual worſhip, not only becauſe the denomination is now taken from the major part; but alſo that men might hereby be prepared by taking off their minds from thoſe carnal Ordinances, to cloſe with the propoſals of a more ſpiritual Law.</p>
+            <p>But yet this Text cannot in reaſon be ſuppoſed to exclude the body: becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from whence <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Worſhipers, and ſhall worſhip, do come, ſig<g ref="char:EOLhyphen"/>nifies to kiſs, which implies an act of the Body; and the <hi>Septuagint</hi> uſes the ſame word to expreſs a worſhip, which was for the moſt part bodily, <hi>viz.</hi> that of <hi>Baal,</hi> 1 King. 19.18. <hi>I have left me ſeven thouſand in Iſrael, all the knees which have not bowed to Baal, and every mouth,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that hath not kiſſed,</hi> that is, that hath not worſhiped him; and why the ſame word ſhould in one place ſignifie a worſhip, which is moſtly bodily: and in the other place, <hi>viz.</hi> this of S. <hi>John,</hi> ſhould ſignifie a worſhip purely ſpiritual, or excluſive of the Body, I do not yet under<g ref="char:EOLhyphen"/>ſtand.</p>
+            <p>But it is a common rule in expounding Scripture, that that cannot be the meaning of one Text, which contradicts a<g ref="char:EOLhyphen"/>nother, and ſuch is this ſenſe which excludes the Body from acts of worſhip. For in <hi>Exod.</hi> 20.5. <hi>Bowing down</hi> the Bo<g ref="char:EOLhyphen"/>dy being the higheſt expreſſion of our inward reverence; and therefore meeteſt for the worſhip of the great God, is
+<pb n="17" facs="tcp:100542:13"/>made an act of Divine Worſhip, and for that very reaſon is forbid to be paid to the creatures, as repreſentations of the Deity. Therefore if we muſt not bow down to the true God, then we may bow down to Graven Images: and con<g ref="char:EOLhyphen"/>trariwiſe, if we muſt not bow down to Graven Images, then we muſt bow down to the true God; and the reaſon is, becauſe it is forbid to be paid to the one, upon this very ac<g ref="char:EOLhyphen"/>count, that it is reſerved as proper, and peculiar to the other; and therefore ſo long as it is forbid to be given to Images, ſo long it remains a debt to God, which is for ever, this Com<g ref="char:EOLhyphen"/>mand being moral, and conſequently perpetually obliging.</p>
+            <p>It muſt needs therefore be, that thoſe men who bow down to neither, as they are no Idolaters, ſo they are no Wor<g ref="char:EOLhyphen"/>ſhipers, and becauſe they would not be Redundants, will therefore be Defectives in their Religion. From this precept have flowed thoſe Exhortations, <hi>Pſal.</hi> 95.6. <hi>O come, let us worſhip, and fall down, and kneel before the Lord our maker.</hi> Which are no parts of the Ceremonial Law, but ſtreams from this Fountain.</p>
+            <p>And ſince God made, redeemed, and promiſed rewards to the Body, as well as the Soul, it is all the reaſon in the world he ſhould be worſhiped by both: from which Topicks that great Apoſtle argues, 1 <hi>Cor.</hi> 6.20. <hi>Ye are bought with a price, therefore glorifie God in your body, and your ſpirit, which are Gods.</hi>
+            </p>
+            <p>Whence we proceed to the fifth part of the Text, <hi>viz.</hi> the meetneſs and equity of the thing,</p>
+            <p>
+               <hi>It is your reaſonable ſervice.</hi>
+            </p>
+            <p>
+               <hi>That ye preſent your bodies a living ſacrifice, holy, accepta<g ref="char:EOLhyphen"/>ble to God,</hi>
+            </p>
+            <p>
+               <hi>Which is your reaſonable ſervice.</hi>
+            </p>
+            <p>That is, a Service agreeable to the reaſons of men, and dictates of nature, abſtracting from her Corruptions.</p>
+            <pb n="18" facs="tcp:100542:14"/>
+            <p> And indeed it muſt needs be ſo, becauſe it is a part of the natural Law. For as <hi>Cicero</hi> ſaith, <hi>conſenſio omnium gentium lex naturae putanda eſt. The conſent of all Nations in any one thing muſt be reputed the law of nature.</hi> And truly as what nature teaches, muſt needs be known, and ſpread as far as humane nature it ſelf: ſo when we find all Nations agreeing in any one thing, we cannot in reaſon aſſign any other teach<g ref="char:EOLhyphen"/>er of that thing but the ſame nature.</p>
+            <p>Now Jew and Gentile, Greek and Barbarian, did all a<g ref="char:EOLhyphen"/>gree in this, according to their ſeveral Modes and Capaci<g ref="char:EOLhyphen"/>ties, that it is a moſt meet and reaſonable thing, that we ſhould <hi>preſent our bodies a living ſacrifice to God.</hi> Whence they had their Temples, their Prieſts and Sacreds. And in their moral Diſcourſes, they taught the neceſſity and way of rooting out Vice, and acquiring Virtue, in order to their making themſelves <hi>holy and acceptable to God.</hi>
+            </p>
+            <p>Neither can any think me too daring in this part of my Diſcourſe, that conſiders that great and learned men hold there is nothing purely poſitive in the Goſpel, but the two Sacraments; and ſome think theſe in part founded on nature, and reaſon too: becauſe they find ſome ſhadows and foot<g ref="char:EOLhyphen"/>ſteps of them in Gentile Writings, as Purification by Wa<g ref="char:EOLhyphen"/>ter, and this before <hi>Homer,</hi> or at leaſt by him mentioned; and their making Leagues <hi>inter vinum &amp; epulas,</hi> with eat<g ref="char:EOLhyphen"/>ing and drinking.</p>
+            <p>Though indeed ſome men are ſo fanſiful, that if they per<g ref="char:EOLhyphen"/>ceive any the leaſt likeneſs between the Notions and Cuſtoms of the Jews and Gentiles, (as eſpecially <hi>T. G. in his Court of the Gentiles</hi>) it muſt needs paſs as a clear Demonſtra<g ref="char:EOLhyphen"/>tion, that therefore the Gentiles had theſe things <hi>mediately,</hi> or <hi>immediately</hi> from the Jews. By which means I dare un<g ref="char:EOLhyphen"/>dertake to make out to the reaſons of men, that they may
+<pb n="19" facs="tcp:100542:14"/>as well make the Hiſtory of one Nation but an imitation and corruption of the Hiſtory of another. Whereas both Jew and Gentile having the ſame natural light, might be directed thereby to many the ſame notions and like cuſtoms. I would ask whether the Gentile by the natural light of the under<g ref="char:EOLhyphen"/>ſtanding might not hit upon ſome truth? Elſe to what pur<g ref="char:EOLhyphen"/>poſe doth that light ſerve? O what benefit is it to that part of Mankind, that had no further Directions? Then whe<g ref="char:EOLhyphen"/>ther the Jews having the ſame light, together with the far<g ref="char:EOLhyphen"/>ther addition of Revelation, might not hit upon the ſame truths, whether it neceſſarily follows, that the Gentiles had this from the Jews? Again, ſince each Light directs man<g ref="char:EOLhyphen"/>kind to the Belief and Worſhip of the Deity, and becauſe there can be no publick Worſhip without the appointment of perſons, time and place, to that end, whence they muſt de<g ref="char:EOLhyphen"/>ſcend to many particular Conſtitutions and Cuſtoms, as to theſe grand requiſites of Worſhip, whether we can in rea<g ref="char:EOLhyphen"/>ſon ſuppoſe that it is not likely there will be ſome ſimilitudes, as to Perſons, Habits, Sacreds, or one thing or other, be<g ref="char:EOLhyphen"/>tween the worſhip of each, although theſe two Bodies of Men might never hear, or know any thing one of another? Whence let reaſon judge, what an irrefragable argument likeneſs of Notions, or Cuſtoms, is, to prove them all of Jewiſh Original.</p>
+            <p>Though indeed moderate and rational Diſcourſes on this Subject may much advance the Glory of Sacred Writings, yet to preſs them ſo far, as ſome have done, robs the great<g ref="char:EOLhyphen"/>er part of Mankind of their very Reaſons, detrudes them into lower Species, and therefore makes them like the Beaſts that periſh; leaving them without light, without any rule of life, without Law, and conſequently without any thing whereby they may be judged at the laſt day.</p>
+            <pb n="20" facs="tcp:100542:15"/>
+            <p> But I know not how any man can deny the point before us to have been diſcovered by natural light, unleſs he will correct S. <hi>Paul,</hi> who affirms a Law written on our hearts by nature, and that Conſcience accuſes, or excuſes, accord<g ref="char:EOLhyphen"/>ing as Men have kept or broke it: <hi>Rom.</hi> 1.14, 15. which he ſpeaks expreſly of the Gentiles, <hi>Who being without law,</hi> viz. that of Revelation, <hi>do by nature the things contained in the law, having the law written on their hearts</hi>—For the <hi>preſenting our ſelves a ſacrifice holy, and acceptable to God,</hi> is the whole ſubſtance of all the practick part of natural Re<g ref="char:EOLhyphen"/>ligion, which being taken away, we know not where to place ſuch Religion, unleſs in mere notions, or ſpeculations; and ſuch can be neither a <hi>Religion,</hi> nor a <hi>Law,</hi> which doth not direct, and oblige us in matters of good and evil.</p>
+            <p>Therefore the ſubject of, and duty preſſed by the Text, being natural, and conſequently a <hi>reaſonable</hi> ſervice, we have this advantage and incouragement to it, <hi>viz.</hi>
+            </p>
+            <p>When the Goſpel propoſes, and preſſes this duty upon us, <hi>Reaſon</hi> ſteps in, and ſpeaks it good and eligible, and condu<g ref="char:EOLhyphen"/>cive to our preſent and future ſafety. This is the main thing that makes <hi>his commands,</hi> as S. <hi>John</hi> ſpeaks, 1 <hi>Ep.</hi> 5.3. <hi>That they are not grievous.</hi>
+            </p>
+            <p>For when reaſon can diſcover no good and neceſſity in the thing injoyned, as it is in pure poſitives, ſuch as be Cir<g ref="char:EOLhyphen"/>cumciſion, Abſtinencies from ſome ſorts of Meat, and in divers other <hi>Moſaick</hi> Rights and Cuſtoms, nature draws back, and rejects theſe Precepts, as matters of toil and ſelf<g ref="char:EOLhyphen"/>denyal, but of no advantage, which perhaps is the reaſon, why the breach of ſome Poſitives under the Law was more ſeverely threatened than ſin in ſome points, that were intrin<g ref="char:EOLhyphen"/>ſecally good and evil.</p>
+            <pb n="21" facs="tcp:100542:15"/>
+            <p> Whereas when the matter of a Precept is agreeable to our Reaſons, we have an argument within, even the ſame reaſon which preſſes us to cloſe with the external Precept. And that it is ſo in this caſe, I leave even your ſelves to judge. For what is more juſt and reaſonable than this, that we ſhould <hi>preſent our ſelves a living ſacrifice</hi> to that God from whom we have received our Bodies, our Beings, toge<g ref="char:EOLhyphen"/>ther with all the comforts and bleſſings of them? What more fitting than that we ſhould live to his Glory, <hi>in whom we live and move?</hi> What more equitable, than that we ſhould obey him, to whom we do belong by all the ſacred ties of <hi>Creation, Redemption, Dedication,</hi> and <hi>voluntary Re<g ref="char:EOLhyphen"/>ſignation</hi> of our ſelves? This is ſo clear and undeniable a thing, that all men that have, and will uſe their reaſon, muſt ſubſcribe to it as our</p>
+            <p>
+               <hi>Reaſonable Service.</hi>
+            </p>
+            <p>Therefore if men will not do ſo, the diſadvantage lies here, that they ſin not only againſt Revelation, but nature too. And therefore ſhall be ſelf-condemn'd, as well as by that Judge of quick and dead. And thence go with ſhame and ſilence into thoſe miſeries that wait them, who know God, but will not call upon his name.</p>
+            <p>Therefore, if there be any Virtue, any Praiſe, any Pity and Compaſſion for your ſelves, let the importunity of ſo great an Apoſtle prevail with us in a thing ſo juſt and reaſon<g ref="char:EOLhyphen"/>able.</p>
+            <p>
+               <hi>Ibeſeech you, brethren, by the mercies of God, that ye pre<g ref="char:EOLhyphen"/>ſent your bodies—which is your reaſonable ſervice.</hi>
+            </p>
+            <p>In fine.</p>
+            <pb n="22" facs="tcp:100542:16"/>
+            <p> One great reaſon why many live no better, and do no more good in their generations, is this, that they worſhip no more. Therefore S. <hi>Paul</hi> doth preſs us to the duties of the former Table, that is, to own and <hi>preſent our ſelves a ſacrifice to God:</hi> and in caſe men are ſincere in this one point, it will moſt certainly put them upon <hi>Sobriety</hi> and <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs, Brotherly-kindneſs</hi> and <hi>Charity,</hi> injoyned by the latter Table; that by this means men may be not only a Sacrifice, but alſo <hi>holy and acceptable to God.</hi> For this part of our Re<g ref="char:EOLhyphen"/>ligion doth ſweetly influence our whole lives. For this wea<g ref="char:EOLhyphen"/>kens corruptions, reſtores us more to our ſelves, and inables us to live up to the Rules and Dictates of right reaſon: and therefore diſpoſed to all good Offices. And where men are not ſo much wanting in the thing, as miſtaken in the ends, and motives of it, this rectifies all theſe errours too.</p>
+            <p>Therefore it is chiefly from hence, that men become truly kind and affable, which is not only agreeable to our natures, as we are ſociable creatures, but doth alſo capacitate us to become the greater Benefactors to our ſelves, and others. For by ſociety and converſe we come to underſtand the world, and thereby become more capable of advancing our own, and other mens intereſt, and therefore by the ſame means mutually inable, and incourage to do good to others, as God hath done good to us.</p>
+            <p>Which is the great deſign of this days Aſſembly, as ap<g ref="char:EOLhyphen"/>pears not only from the practiſes of former Stewards of this Company, who have yearly ſet out to Trades as many poor Children of our County of <hi>Warwick,</hi> as there be Stewards of the ſaid Company, which be, in number, eight. But alſo from the generous inclinations of <hi>you,</hi> the preſent Stewards, who ſeem reſolved not to fall ſhort of any that have went be<g ref="char:EOLhyphen"/>fore you.</p>
+            <pb n="23" facs="tcp:100542:16"/>
+            <p> And indeed as this is one of the firſt of all the Counties of <hi>England,</hi> that hath met in this nature, ſo <hi>you</hi> have from year to year in ſuch meaſures out done them all, that you are looked upon as Enſamples to the reſt. So true is it of your works, as S. <hi>Paul</hi> ſpeaks of the <hi>Romans</hi> Faith, they are famous in the world. And ſince we may ſay, <hi>you have run well,</hi> though I do not fear it this preſent year, it is pity it ſhould ever be ſaid, <hi>Who hath hindered you?</hi>
+            </p>
+            <p>For to do good, and to communicate in any way, is wor<g ref="char:EOLhyphen"/>thy of Men and Chriſtians. But this is certainly one of the moſt generous and beſt methods of Charity we can think of. For to relieve ſinking perſons, and Families is a very good Office, and in no wiſe ſhall miſs its reward, but is not likely to prove ſo advantageous to a Society as this; for by ſuch means we keep thoſe perſons ſo relieved from ſome mea<g ref="char:EOLhyphen"/>ſures of Diſtreſs, but they are never likely hereby, unleſs in ſome rare inſtance, ſo to riſe in the world, as to become ſerviceable to their Generations.</p>
+            <p>Whereas this puts poor Children, who elſe might have lay as Vaſſals, unable to help themſelves, or others, into a capacity of becoming men, and of making others ſo.</p>
+            <p>Therefore you know not how extenſive your Liberalities may prove, and what <hi>publick</hi> Bleſſings time and induſtry may make them; for who can ſay what great Traders, what large Eſtates, and what conſiderable Families may ſpring from theſe beginnings? Therefore as the main end of all Societies is the preſervation of the whole, which is beſt done by preſerving and advancing particulars, you do in this way <hi>admirably</hi> anſwer her main intendments.</p>
+            <pb n="24" facs="tcp:100542:17"/>
+            <p> And if we look back to former Ages, we ſhall find ſuch publick ſpirits, even in the Gentile World, that the <hi>Roman</hi> Orator lays it down as a common Truth, <hi>Non nobis nati,</hi> we are born for the good of others, as well as our own. Which principle carried ſome of them ſo far, that they deemed it a happineſs when need required,
+<q>Pro patriâ mori—</q> To give their lives for the Honour and Safety of that place where they firſt received them.</p>
+            <p>Much leſs then ſhould <hi>we</hi> be unwilling to part from ſome<g ref="char:EOLhyphen"/>thing of our time, and other good things that God ſhall be pleaſed to give us, for the Glory, and Advantage of our Na<g ref="char:EOLhyphen"/>tive Soil.</p>
+            <p>And truly our County of <hi>Warwick</hi> is a Place ſo famous for <hi>Antiquities,</hi> and Marks of Honour; adorned at preſent as well as in former Ages, with ſo many <hi>Noble</hi> and <hi>Gentile</hi> Families, hath given breath to ſo many others, famous in their Generations, as even this Aſſembly in ſome good mea<g ref="char:EOLhyphen"/>ſure teſtifies; whoſe <hi>Piety</hi> and <hi>good Works</hi> ſo eminently ap<g ref="char:EOLhyphen"/>peared in former times from the vaſt number of <hi>Religious Houſes;</hi> and ſtill doth from the many <hi>Hoſpitals, Free-Schools,</hi> and <hi>Augmentation of poor Vicaridges,</hi> that in theſe things we act by the meaſures, and follow the Footſteps of our gene<g ref="char:EOLhyphen"/>rous Anceſtors, and ſpeak our ſelves <hi>Warwick-ſhire</hi> Men in Nature, as well as Name.</p>
+            <p>Nor is it our Praiſe only, but our duty too, to do all the good we can. Therefore S. <hi>John</hi> 1 <hi>Ep.</hi> 4.11. argues from God's Bounty to us, to that Bounty and Kindneſs, we owe
+<pb n="25" facs="tcp:100542:17"/>to others. <hi>Beloved, if God ſo loved us, we ought alſo to love one another.</hi> Now as God's Love diſcovered it ſelf, not in a fruitleſs pity, but in doing thoſe good things to us which were moſt ſuitable to our wants; as the Redemption of the World, thereby reſcuing Mankind out of the hands of mi<g ref="char:EOLhyphen"/>ſery and death: ſo our love ought to evidence it ſelf, not barely in compaſſionate Speeches, and unprofitable wiſhes, like him in S. <hi>James</hi> 2.16. <hi>Depart in peace, be warmed, be filled: without giving thoſe things, that be needful for the body.</hi> But in doing thoſe good Offices which are moſt conducive to mens eaſe, and comfort, ſo far as opportunity and abilities will well allow. Theſe are returns we make to God; and expreſſions of our thankfulneſs to him, for all the benefits he hath done unto us.</p>
+            <p>This is the way to increaſe our preſent Enjoyments, and to ſecure them to poſterity: for S. <hi>Paul</hi> compares this to ſowing, thereby teaching us, that what we part from in ſuch ways, will bring us (according to what we ſow, whe<g ref="char:EOLhyphen"/>ther more or leſs) a plentiful Harveſt, and a bleſſed In<g ref="char:EOLhyphen"/>creaſe.</p>
+            <p>And truly every man that is born into the world, hath a natural right to a maintenance here, one as well another; for the world was made, not for ſome few perſons, or Families, but for mankind in general. And though Providence hath wiſely ordered divers diſtinctions, as to Honours and Eſtates, for if all were equal, none would ſerve, or obey others, which would neceſſarily run a Society into diſtractions, a State of War, and perhaps, into final Confuſions. Yet this doth not take away any mans natural; for ſtill a ſubſiſtance remains due, elſe many muſt be ſent into the world, either to treſpaſs upon other Rights, or elſe to periſh at other mens pleaſure; which neither Nature nor Religion
+<pb n="26" facs="tcp:100542:18"/>can allow. Therefore if any cannot help, or maintain them<g ref="char:EOLhyphen"/>ſelves, they ought to be aſſiſted by them that may. Whence Alms are ſomewhere called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our <hi>Righteouſneſs,</hi> thereby ſhewing we do but what is juſt, and right in giving them. And hence that Judge of the world ſhews theſe works are ſo acceptable to God, that they ſhall receive from him an everlaſting Recompenſe. <hi>I was an hungry, and ye gave me meat: thirſty, and ye gave me drink: naked, and ye cloathed me: inpriſon, and ye viſited me. Therefore come ye bleſſed of my Father, inherit the kingdom prepared for you.</hi>
+            </p>
+            <p>To which place, God of his Mercy bring us, for Jeſus Chriſt his ſake. To whom, with God the Father, and God the Holy Ghoſt, be all Honour and Glory. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:100542:18"/>
+            <head>ERRATA.</head>
+            <p>IN: Epiſtle 1. page 3. line 3. for yet read ſet. l. 10. f. frame r. flame. p. 4. l. 17. f. deliver r. detain. Epiſtle 2. l. 7. take out the ſecond as. In the Sermon, p. 4. l. 6. f. wage r. urge p. 5. l. 14. f. truth r. proof. p. 19. l. 7. f. o r. or. p. 25. l. 29. after natural r. right. l. 31. after o<g ref="char:EOLhyphen"/>ther. r mens.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
